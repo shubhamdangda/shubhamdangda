@@ -1,7 +1,11 @@
 ### Hi there 
+
 👋 I am Shubham Dangda
+
 🔭 I’m currently working as Data Analyst/Power BI developer.
+
 🌱 I’m currently learning more about Data Analytics.
+
 👯 I’m looking to collaborate on projects related to Data Analysis.
 <!--
 **shubhamdangda/shubhamdangda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
